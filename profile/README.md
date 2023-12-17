@@ -67,3 +67,7 @@ Employs Google Cloud services for efficiency and security. Key components includ
 # Nutricare Machine Learning Platform
 
 Utilizes transfer learning models and TensorFlow Library for classifying obesity types and image object detection for food recommendation based on user ingredients.
+
+#### Repositories for Nutricare Machine Learning Platform
+
+1. [Nutricare Python](https://github.com/NusaSpot/python-ml)
