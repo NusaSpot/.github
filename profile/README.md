@@ -50,7 +50,7 @@ The "Nutricare" project aims to address obesity and overweight issues in Indones
 ### Data Structures
 ###
 
-<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:1080px; height:650px;">
+<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:1080px; height:550px;">
 
 ###
 
