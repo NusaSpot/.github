@@ -47,6 +47,13 @@ The "Nutricare" project aims to address obesity and overweight issues in Indones
 
 /// User Flow Journey Here ////
 
+### Data Structures
+###
+
+<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:1080px; height:650px;">
+
+###
+
 # Nutricare Android Platform
 
 The app is developed using Android Studio and Kotlin, focusing on diverse layout options for a precise user interface. It emphasizes native programming languages for robust applications and integrates features like camera and gallery functionalities.
