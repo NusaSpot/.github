@@ -41,7 +41,52 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-## Web Nutricare Admin Features
+## Nutricare Website Branding 
+
+###
+
+1. Landing Page
+
+###
+
+<img src="https://i.ibb.co/bP6Ps8y/1.png" alt="deskripsi" style="width:800px; height:400px;">
+
+###
+
+2. Nutricare Introduction
+
+###
+
+<img src="https://i.ibb.co/sQCn5Gy/2.png" alt="deskripsi" style="width:800px; height:400px;">
+
+###
+
+3. Nutrisionist Invitation
+
+###
+
+<img src="https://i.ibb.co/tbX8yw9/3.png" alt="deskripsi" style="width:800px; height:400px;">
+
+###
+
+4. Our Team
+
+###
+
+<img src="https://i.ibb.co/JvT5dm9/4.png" alt="deskripsi" style="width:800px; height:400px;">
+
+###
+
+5. Our Team
+
+###
+
+<img src="https://i.ibb.co/VYFbZHF/5.png" alt="deskripsi" style="width:800px; height:400px;">
+
+###
+
+
+## Website Nutricare Admin Features
 
 1.Dashboard Admin 
 
@@ -115,14 +160,14 @@ Employs Google Cloud services for efficiency and security. Key components includ
 ### Cloud Architecture
 ###
 
-<img src="https://i.ibb.co/tMfGjPG/arsitektur-drawio.png" alt="Data Structures" style="width:1000px; height:500px;">
+<img src="https://i.ibb.co/tMfGjPG/arsitektur-drawio.png" alt="Data Structures" style="width:800px; height:400px;">
 
 ###
 
 ### Data Structures
 ###
 
-<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:1000px; height:500px;">
+<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:800px; height:400px;">
 
 ###
 
