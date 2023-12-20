@@ -47,12 +47,6 @@ The "Nutricare" project aims to address obesity and overweight issues in Indones
 
 /// User Flow Journey Here ////
 
-### Data Structures
-###
-
-<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:1080px; height:550px;">
-
-###
 
 # Nutricare Android Platform
 
@@ -66,6 +60,20 @@ The app is developed using Android Studio and Kotlin, focusing on diverse layout
 # Nutricare Cloud Computing Platform
 
 Employs Google Cloud services for efficiency and security. Key components include Cloud SQL for MySQL database storage and Cloud Run for serverless deployment. Laravel-based API is used for cloud/web/frontend/backend development, enhancing scalability and cost-effectiveness.
+
+### Cloud Architecture
+###
+
+<img src="https://i.ibb.co/tMfGjPG/arsitektur-drawio.png" alt="Data Structures" style="width:1000px; height:500px;">
+
+###
+
+### Data Structures
+###
+
+<img src="https://i.ibb.co/KVcCFf2/database-structure.png" alt="Data Structures" style="width:1000px; height:500px;">
+
+###
 
 #### Repositories for Nutricare Cloud Computing Platform
 
