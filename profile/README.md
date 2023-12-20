@@ -49,7 +49,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-<img src="https://i.ibb.co/bP6Ps8y/1.png" alt="deskripsi" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/bP6Ps8y/1.png" alt="deskripsi" style="width:700px; height:350px;">
 
 ###
 
@@ -57,7 +57,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-<img src="https://i.ibb.co/sQCn5Gy/2.png" alt="deskripsi" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/sQCn5Gy/2.png" alt="deskripsi" style="width:700px; height:350px;">
 
 ###
 
@@ -65,7 +65,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-<img src="https://i.ibb.co/tbX8yw9/3.png" alt="deskripsi" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/tbX8yw9/3.png" alt="deskripsi" style="width:700px; height:350px;">
 
 ###
 
@@ -73,7 +73,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-<img src="https://i.ibb.co/JvT5dm9/4.png" alt="deskripsi" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/JvT5dm9/4.png" alt="deskripsi" style="width:700px; height:350px;">
 
 ###
 
@@ -81,59 +81,69 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-<img src="https://i.ibb.co/VYFbZHF/5.png" alt="deskripsi" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/VYFbZHF/5.png" alt="deskripsi" style="width:700px; height:350px;">
+
+###
+
+## Website Nutrisionist Features
+
+#### 1. Authentication
+
+###
+
+<img src="https://i.ibb.co/y8ckVgp/14.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
 
 ## Website Nutricare Admin Features
 
-#### 1.Dashboard Admin 
+#### 1. Dashboard Admin 
 
 ###
 
-<img src="https://i.ibb.co/QCzLzBp/6.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/QCzLzBp/6.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
-#### 2.Account Management
+#### 2. Account Management
 
 ###
 ##### 🔶 Admin Page Management
 ###
-<img src="https://i.ibb.co/ZmVMGXv/7.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/ZmVMGXv/7.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 ##### 🔶 User Page Management
 ###
-<img src="https://i.ibb.co/r66s4GQ/8.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/r66s4GQ/8.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 ##### 🔶 Nutrisionist Page Management
 ###
-<img src="https://i.ibb.co/R9z2CwM/9.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/R9z2CwM/9.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
 ##### 🔶 Nutrisionist Detail Page
 
-<img src="https://i.ibb.co/3MYy6f4/10.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/3MYy6f4/10.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
-#### 3.recipe data management
+#### 3. recipe data management
 
 ###
 
-<img src="https://i.ibb.co/Hhw3GWL/11.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/Hhw3GWL/11.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
-#### 4.Nutrisionist Activation
+#### 4. Nutrisionist Activation
 
 ###
 
-<img src="https://i.ibb.co/hcgCtFV/12.png" alt="Dashboard Admin" style="width:800px; height:400px;">
+<img src="https://i.ibb.co/hcgCtFV/12.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
