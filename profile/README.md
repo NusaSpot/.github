@@ -8,7 +8,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-1. Autentication
+#### 1. Autentication
 
 ###
 
@@ -16,7 +16,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-2. Check Your Body Health
+#### 2. Check Your Body Health
 
 ###
 
@@ -24,7 +24,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-3. Search for healthy dishes or try using your camera to find the best recipes with the ingredients you have available.
+#### 3. Search for healthy dishes or try using your camera to find the best recipes with the ingredients you have available.
 
 ###
 
@@ -33,7 +33,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-4. Consultation with our nutritionist
+#### 4. Consultation with our nutritionist
 
 ###
 
@@ -45,7 +45,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-1. Landing Page
+#### 1. Landing Page
 
 ###
 
@@ -53,7 +53,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-2. Nutricare Introduction
+#### 2. Nutricare Introduction
 
 ###
 
@@ -61,7 +61,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-3. Nutrisionist Invitation
+#### 3. Nutrisionist Invitation
 
 ###
 
@@ -69,7 +69,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-4. Our Team
+#### 4. Our Team
 
 ###
 
@@ -77,7 +77,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-5. FAQ
+#### 5. FAQ
 
 ###
 
@@ -88,7 +88,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ## Website Nutricare Admin Features
 
-1.Dashboard Admin 
+#### 1.Dashboard Admin 
 
 ###
 
@@ -96,7 +96,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-2.Account Management
+#### 2.Account Management
 
 ###
 ##### 🔶 Admin Page Management
@@ -121,7 +121,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-3.recipe data management
+#### 3.recipe data management
 
 ###
 
@@ -129,7 +129,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-3.Nutrisionist Activation
+#### 4.Nutrisionist Activation
 
 ###
 
