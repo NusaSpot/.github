@@ -41,6 +41,55 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
+## Web Nutricare Admin Features
+
+1.Dashboard Admin 
+
+###
+
+<img src="https://i.ibb.co/QCzLzBp/6.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+
+2.Account Management
+
+###
+##### 🔶 Admin Page Management
+###
+<img src="https://i.ibb.co/ZmVMGXv/7.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+##### 🔶 User Page Management
+###
+<img src="https://i.ibb.co/r66s4GQ/8.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+##### 🔶 Nutrisionist Page Management
+###
+<img src="https://i.ibb.co/R9z2CwM/9.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+
+<img src="https://i.ibb.co/3MYy6f4/10.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+
+3.recipe data management
+
+###
+
+<img src="https://i.ibb.co/Hhw3GWL/11.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+
+3.Nutrisionist Activation
+
+###
+
+<img src="https://i.ibb.co/hcgCtFV/12.png" alt="Dashboard Admin" style="width:1000px; height:500px;">
+
+###
+
 # Technical Details
 
 The "Nutricare" project aims to address obesity and overweight issues in Indonesia through a mobile application. The app will classify an individual's health condition related to obesity or overweight and provide healthy food recommendations based on available ingredients. It will also facilitate access to nutritionists for personalized guidance. The app will be developed using Kotlin for Android, integrating features for user interaction, machine learning for health condition classification, and cloud computing for data management and user authentication using Firebase. The project emphasizes user-friendly UI design and efficient integration of various technologies.
