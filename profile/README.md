@@ -78,3 +78,12 @@ Utilizes transfer learning models and TensorFlow Library for classifying obesity
 #### Repositories for Nutricare Machine Learning Platform
 
 1. [Nutricare Python](https://github.com/NusaSpot/python-ml)
+
+# Getting Started
+
+### Mobile Development
+To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nusaspot-android) into your local.
+
+### Cloud Computing
+
+### Machine Learning
