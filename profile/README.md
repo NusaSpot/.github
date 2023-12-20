@@ -77,7 +77,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-5. Our Team
+5. FAQ
 
 ###
 
