@@ -199,5 +199,21 @@ Utilizes transfer learning models and TensorFlow Library for classifying obesity
 To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nusaspot-android) into your local.
 
 ### Cloud Computing
+Start to clone our project this can be cloned to your local system or deployed to cloud systems, We recommend you to use Google Cloud to deploy. We used Cloud Run, Cloud Build, Cloud Storage, and Cloud SQL for our architecture here are the steps:
+
+1. Create a Project on the Google Cloud Platform
+2. Create Cloud SQL Instances
+3. Import Database from (https://storage.googleapis.com/nutricare/nutricare-database.sql)
+4. Create Bucket on Cloud Storage
+5. Clone, build, and deploy this machine learning API to Cloud Run
+   - Image Detection: (https://github.com/NusaSpot/detect-image)
+   - Body Status Detection: (https://github.com/NusaSpot/detect-obesity)
+7. Clone, build, and deploy our web and API services, but take a look at the .env.example at each repository for the reference environment that we used, also please assign a service account to each service that has (Storage Object Admin) Role
+    1. API : (https://github.com/NusaSpot/nutricare-api)
+    2. Web Nutritionist & Profile: (https://github.com/NusaSpot/nutricare-web)
+    3. Web Administrator: (https://github.com/NusaSpot/nutricare-web-admin)
+8. After all is finished you can try each service also you can try to login in Web Administrator using these credentials :
+    1. Username: admin-nutricare@gmail.com
+    2. Password: nutricare@@
 
 ### Machine Learning
