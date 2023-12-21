@@ -209,11 +209,11 @@ Start to clone our project this can be cloned to your local system or deployed t
    - Image Detection: (https://github.com/NusaSpot/detect-image)
    - Body Status Detection: (https://github.com/NusaSpot/detect-obesity)
 7. Clone, build, and deploy our web and API services, but take a look at the .env.example at each repository for the reference environment that we used, also please assign a service account to each service that has (Storage Object Admin) Role
-    1. API : (https://github.com/NusaSpot/nutricare-api)
-    2. Web Nutritionist & Profile: (https://github.com/NusaSpot/nutricare-web)
-    3. Web Administrator: (https://github.com/NusaSpot/nutricare-web-admin)
-8. After all is finished you can try each service also you can try to login in Web Administrator using these credentials :
-    1. Username: admin-nutricare@gmail.com
-    2. Password: nutricare@@
+   - API : (https://github.com/NusaSpot/nutricare-api)
+   - Web Nutritionist & Profile: (https://github.com/NusaSpot/nutricare-web)
+   - Web Administrator: (https://github.com/NusaSpot/nutricare-web-admin)
+9. After all is finished you can try each service also you can try to login in Web Administrator using these credentials :
+   - Username: admin-nutricare@gmail.com
+   - Password: nutricare@@
 
 ### Machine Learning
