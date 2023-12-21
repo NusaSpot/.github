@@ -91,7 +91,31 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-<img src="https://i.ibb.co/y8ckVgp/14.png" alt="Dashboard Admin" style="width:700px; height:350px;">
+<img src="https://i.ibb.co/y8ckVgp/14.png" alt="Authentication" style="width:700px; height:350px;">
+
+###
+
+#### 2. Profile
+
+###
+
+<img src="https://i.ibb.co/KW3VnFK/15.png" alt="Profile" style="width:700px; height:350px;">
+
+###
+
+#### 3. Dashboard
+
+###
+
+<img src="https://i.ibb.co/QDnZMcY/20.png" alt="Dashboard" style="width:700px; height:350px;">
+
+###
+
+#### 4. Nutrisionist activity
+
+###
+
+<img src="https://i.ibb.co/0XTMSSY/21.png" alt="Nutrisionist activity" style="width:700px; height:350px;">
 
 ###
 
