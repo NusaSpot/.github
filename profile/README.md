@@ -296,8 +296,8 @@ To use the image and obesity detection you can clone the repository follow the t
 
 Use '**pip install -r requirements.txt**' to install the required packages.  
 3. Download the trained model and preprocessed dataset at the following link.:
-- [Obesity Detection Model](https://github.com/NusaSpot/detect-obesity/blob/main/Klasifikasi_Obesitas.h5)
-- [Image Detection Model](https://github.com/NusaSpot/detect-image/blob/main/klasifikasi_gambar.h5)
+- [Obesity Detection Model](https://github.com/NusaSpot/detect-obesity/blob/main/obesity_classification.h5)
+- [Image Detection Model](https://github.com/NusaSpot/detect-image/blob/main/image_classification.h5)
 - [Image Raw Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
 - [Image Clean Dataset](https://drive.google.com/drive/folders/1Wy8-M0xPY6KlGyT_74pPvYkvY8vwlPWu)
 - [Obesity Dataset](https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset)
