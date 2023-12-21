@@ -193,10 +193,10 @@ We also create Rest API for our app by using laravel as backend and flask python
 
 Utilizes transfer learning models and TensorFlow Library for classifying obesity types and image object detection for food recommendation based on user ingredients.
 
-**Image Detection**
+### **Image Detection**
 Image detection is based on transfer learning using MobilenetV2 models. Image detection is used in the mobile app to identify the image of cookoing ingredients and this dataset has 30 types of cooking ingredients that can be detected. The utilization of transfer learning through MobilenetV2 models enhances the efficiency of image detection in the mobile app, allowing for a more accurate and rapid identification of cooking ingredients. 
 
-**Obesity Detection**
+### **Obesity Detection**
 This obesity detection uses TensorFlow in its development, by implementing a simple model architecture to identify obesity accurately. The model is trained using a dataset with six classes, where the system will use height and weight to calculate the user's BMI.
 
 #### Repositories for Nutricare Machine Learning Platform
