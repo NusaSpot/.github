@@ -257,7 +257,7 @@ This obesity detection uses TensorFlow in its development, by implementing a sim
 #### Model Accuracy
 
 **Obesity Detection Model**   
-The obesity detection model demonstrates high accuracy, achieving an impressive 97.62% accuracy on the training dataset. During testing, it maintains a commendable accuracy of 93.94%, showcasing its effectiveness in identifying instances of obesity.
+The obesity detection model demonstrates high accuracy, achieving an impressive 97.62% accuracy on the training dataset. During testing, it maintains a commendable accuracy of 93.94%, showcasing its effectiveness in identifying obesity.
 
 **Image Detection Model**   
 For image detection, the model shows strong performance with 90% accuracy during training. During validation, it achieved 96.58% accuracy, emphasizing its ability to generalize well to new data. The robustness of this model was further validated with a test accuracy of 96.32%, which shows its reliability in accurately detecting objects in images.
