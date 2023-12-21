@@ -1,5 +1,3 @@
-<img width="1061" alt="image" src="https://github.com/NusaSpot/.github/assets/46333870/354917be-c664-4012-b3ad-4a84e8e5cd1b">
-
 # Nutricare
 
 Nutricare is a mobile application project aiming to address the escalating rates of overweight and obesity in Indonesia. The app classifies an individual's health status regarding obesity or overweight and provides personalized healthy food recommendations based on available ingredients. It also offers access to nutritionists for further guidance on body health conditions. This aligns with the goals of Indonesia's vision for 2045 by promoting well-being and addressing health challenges associated with obesity, leveraging technology to contribute to the solution
