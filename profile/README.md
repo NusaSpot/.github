@@ -186,6 +186,8 @@ We also create Rest API for our app by using laravel as backend and flask python
 #### Repositories for Nutricare Cloud Computing Platform
 
 1. [Nutricare API](https://github.com/NusaSpot/nusaspot-api)
+2. [Nutricare Web](https://github.com/NusaSpot/nutricare-web)
+3. [Nutricare Web Admin](https://github.com/NusaSpot/nutricare-web-admin)
 
 # Nutricare Machine Learning Platform
 
