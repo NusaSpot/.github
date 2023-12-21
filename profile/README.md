@@ -1,4 +1,4 @@
-![Logo](https://i.ibb.co/vmSmwjh/Frame-3222-1.png)
+<img width="1061" alt="image" src="https://github.com/NusaSpot/.github/assets/46333870/354917be-c664-4012-b3ad-4a84e8e5cd1b">![Logo](https://i.ibb.co/vmSmwjh/Frame-3222-1.png)
 
 # Nutricare
 
@@ -166,6 +166,10 @@ The app is developed using Android Studio and Kotlin, focusing on diverse layout
 # Nutricare Cloud Computing Platform
 
 Employs Google Cloud services for efficiency and security. Key components include Cloud SQL for MySQL database storage and Cloud Run for serverless deployment. Laravel-based API is used for cloud/web/frontend/backend development, enhancing scalability and cost-effectiveness.
+
+We also create Rest API for our app by using laravel as backend and flask python for our machine learning services we also using CI/CD using Cloud Build to make our deployment become easier.
+
+#### API Documentation : https://documenter.getpostman.com/view/11660174/2s9YJW5kV3
 
 ### Cloud Architecture
 ###
