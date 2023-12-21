@@ -221,3 +221,10 @@ Start to clone our project this can be cloned to your local system or deployed t
    - Password: nutricare@@
 
 ### Machine Learning
+
+## Development Reference
+   - Template Landing Page: https://bootstrapmade.com/
+   - Deploying Backend Services (Laravel): https://www.youtube.com/watch?v=00UqiF4hqNw&t=582s
+   - Deploying Machine Learning Services: https://www.youtube.com/watch?v=CxzaOHTwqEI
+     
+###
