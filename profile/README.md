@@ -173,9 +173,26 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 The "Nutricare" project aims to address obesity and overweight issues in Indonesia through a mobile application. The app will classify an individual's health condition related to obesity or overweight and provide healthy food recommendations based on available ingredients. It will also facilitate access to nutritionists for personalized guidance. The app will be developed using Kotlin for Android, integrating features for user interaction, machine learning for health condition classification, and cloud computing for data management and user authentication using Firebase. The project emphasizes user-friendly UI design and efficient integration of various technologies.
 
-/// User Flow Journey Here ////
+### 1. Andorid User Flow Journey
 
+###
+<img src="https://i.ibb.co/93L1HRM/flowchart-android-drawio.png" alt="Android" style="width:121px; height:702px;">
 
+###
+
+### 2. Web Nutritionist User Flow Journey
+
+###
+<img src="https://i.ibb.co/cC0mfbn/flowchart-nutritionist-drawio.png" alt="Nutritionist" style="width:204px; height:621px;">
+
+###
+
+### 3. Web Admin User Flow Journey
+
+###
+<img src="https://i.ibb.co/qC5jKHT/flowhcart-admin-drawio.png" alt="Admin" style="width:121px; height:521px;">
+
+###
 # Nutricare Android Platform
 
 The app is developed using Android Studio and Kotlin, focusing on diverse layout options for a precise user interface. It emphasizes native programming languages for robust applications and integrates features like camera and gallery functionalities.
