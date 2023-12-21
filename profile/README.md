@@ -254,6 +254,14 @@ This obesity detection uses TensorFlow in its development, by implementing a sim
 2. [Nutricare Image Detection](https://github.com/NusaSpot/detect-image)
 3. [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
 
+#### Model Accuracy
+
+**Obesity Detection Model**
+The obesity detection model demonstrates high accuracy, achieving an impressive 97.62% accuracy on the training dataset. During testing, it maintains a commendable accuracy of 93.94%, showcasing its effectiveness in identifying instances of obesity.
+
+**Image Detection Model**
+For image detection, the model shows strong performance with 90% accuracy during training. During validation, it achieved 96.58% accuracy, emphasizing its ability to generalize well to new data. The robustness of this model was further validated with a test accuracy of 96.32%, which shows its reliability in accurately detecting objects in images.
+
 # Getting Started
 
 ### Mobile Development
@@ -307,7 +315,7 @@ In the implementation of our neural network architecture, we've incorporated sev
 5. Dense(with 'softmax' activation)
 
 ### Training and Evaluation
-The image detection model that has been created is compiled using the RMS Prop optimizer with learning_rate of 0.001 and and categorical
+The image detection model that has been created is compiled using the RMS Prop optimizer with learning_rate of 0.001 and categorical
 cross-entropy loss. For evaluation matrix, model uses accuracy with 20 epochs for training.
 
 ### Pretrained Model
