@@ -212,7 +212,7 @@ Start to clone our project this can be cloned to your local system or deployed t
 5. Clone, build, and deploy this machine learning API to Cloud Run
    - Image Detection: (https://github.com/NusaSpot/detect-image)
    - Body Status Detection: (https://github.com/NusaSpot/detect-obesity)
-7. Clone, build, and deploy our web and API services, but take a look at the .env.example at each repository for the reference environment that we used, also please assign a service account to each service that has (Storage Object Admin) Role
+7. Clone, build, and deploy our web and API services to Cloud Run, but take a look at the .env.example at each repository for the reference environment that we used, also please assign a service account to each service that has (Storage Object Admin) Role
    - API : (https://github.com/NusaSpot/nutricare-api)
    - Web Nutritionist & Profile: (https://github.com/NusaSpot/nutricare-web)
    - Web Administrator: (https://github.com/NusaSpot/nutricare-web-admin)
