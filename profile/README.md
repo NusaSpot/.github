@@ -229,6 +229,39 @@ Start to clone our project this can be cloned to your local system or deployed t
    - Password: nutricare@@
 
 ### Machine Learning
+To use the image and obesity detection you can clone the repository follow the this steps :
+1. Clone the repository:
+- Image Detection: [Nutricare Image Detection](https://github.com/NusaSpot/detect-image)
+- Obesisty Detection: [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
+2. Install the required packages and dependencies:
+- [Image Detection Requirements](https://github.com/NusaSpot/detect-image/blob/main/requirements.txt)
+- [Obesity Detection Requirements](https://github.com/NusaSpot/detect-obesity/blob/main/requirements.txt)
+Use **pip install -r requirements.txt** to install the required packages.
+3. Download the trained model and preprocessed dataset at the following link.:
+- [Obesity Detection Model](https://github.com/NusaSpot/detect-obesity/blob/main/Klasifikasi_Obesitas.h5)
+- [Image Detection Model](https://github.com/NusaSpot/detect-image/blob/main/klasifikasi_gambar.h5)
+- [Image Raw Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+- [Image Clean Dataset](https://drive.google.com/drive/folders/1Wy8-M0xPY6KlGyT_74pPvYkvY8vwlPWu)
+- [Obesity Dataset](https://www.kaggle.com/datasets/sujithmandala/obesity-classification-dataset)
+4. Place the model and dataset that have been downloaded into the same directory as the project that was cloned in the first step.
+5. Explore the Jupyter notebooks provided in the repository to understand how to use the models for image or obesity detection.
+6. Follow the instructions within the notebooks to load the models, preprocess the data, and perform detection.
+
+### Custom Layers
+In the implementation of our neural network architecture, we've incorporated several custom layers to enhance model performance and flexibility. The layers included are:
+
+1. Global Average Pooling
+2. Batch Normalization
+3. Dropout
+4. Dense(with 'relu' activation)
+5. Dense(with 'softmax' activation)
+
+### Training and Evaluation
+The image detection model that has been created is compiled using the RMS Prop optimizer with learning_rate of 0.001 and and categorical
+cross-entropy loss. For evaluation matrix, model uses accuracy with 20 epochs for training.
+
+### Pretrained Model
+This pre-training empowers the model with a strong understanding of common visual representations, forming a strong foundation for transferring learning to specific tasks such as image recognition or detection.
 
 ## Development Reference
    - Template Landing Page: https://bootstrapmade.com/
