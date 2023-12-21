@@ -59,7 +59,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-#### 3. Nutrisionist Invitation
+#### 3. Nutritionist Invitation
 
 ###
 
@@ -109,7 +109,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-#### 4. Nutrisionist activity
+#### 4. Nutritionist activity
 
 ###
 
@@ -117,7 +117,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-#### 5. Nutrisionist activity details
+#### 5. Nutritionist activity details
 
 ###
 
@@ -149,19 +149,19 @@ Nutricare is a mobile application project aiming to address the escalating rates
 <img src="https://i.ibb.co/r66s4GQ/8.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
-##### 🔶 Nutrisionist Page Management
+##### 🔶 Nutritionist Page Management
 ###
 <img src="https://i.ibb.co/R9z2CwM/9.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
-##### 🔶 Nutrisionist Detail Page
+##### 🔶 Nutritionist Detail Page
 
 <img src="https://i.ibb.co/3MYy6f4/10.png" alt="Dashboard Admin" style="width:700px; height:350px;">
 
 ###
 
-#### 3. recipe data management
+#### 3. Recipe data management
 
 ###
 
@@ -169,7 +169,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-#### 4. Nutrisionist Activation
+#### 4. Nutritionist Activation
 
 ###
 
@@ -181,7 +181,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 The "Nutricare" project aims to address obesity and overweight issues in Indonesia through a mobile application. The app will classify an individual's health condition related to obesity or overweight and provide healthy food recommendations based on available ingredients. It will also facilitate access to nutritionists for personalized guidance. The app will be developed using Kotlin for Android, integrating features for user interaction, machine learning for health condition classification, and cloud computing for data management and user authentication using Firebase. The project emphasizes user-friendly UI design and efficient integration of various technologies.
 
-### 1. Andorid User Flow Journey
+### 1. Android User Flow Journey
 
 ###
 <img src="https://i.ibb.co/93L1HRM/flowchart-android-drawio.png" alt="Android" style="width:121px; height:702px;">
@@ -265,7 +265,7 @@ For image detection, the model shows strong performance with 90% accuracy during
 # Getting Started
 
 ### Mobile Development
-To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nutricare-android) into your local.
+To get started with the mobile development application you can install Android Studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nutricare-android) into your local.
 
 ### Cloud Computing
 Start to clone our project this can be cloned to your local system or deployed to cloud systems, We recommend you to use Google Cloud to deploy. We used Cloud Run, Cloud Build, Cloud Storage, and Cloud SQL for our architecture here are the steps:
@@ -281,15 +281,15 @@ Start to clone our project this can be cloned to your local system or deployed t
    - API : (https://github.com/NusaSpot/nutricare-api)
    - Web Nutritionist & Profile: (https://github.com/NusaSpot/nutricare-web)
    - Web Administrator: (https://github.com/NusaSpot/nutricare-web-admin)
-9. After all is finished you can try each service also you can try to login in Web Administrator using these credentials :
+9. After all is finished you can try each service also you can try to login to Web Administrator using these credentials :
    - Username: admin-nutricare@gmail.com
    - Password: nutricare@@
 
 ### Machine Learning
-To use the image and obesity detection you can clone the repository follow the this steps :
+To use the image and obesity detection you can clone the repository follow this steps :
 1. Clone the repository:
 - Image Detection: [Nutricare Image Detection](https://github.com/NusaSpot/detect-image)
-- Obesisty Detection: [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
+- Obesity Detection: [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
 2. Install the required packages and dependencies:
 - [Image Detection Requirements](https://github.com/NusaSpot/detect-image/blob/main/requirements.txt)
 - [Obesity Detection Requirements](https://github.com/NusaSpot/detect-obesity/blob/main/requirements.txt)
@@ -316,15 +316,15 @@ In the implementation of our neural network architecture, we've incorporated sev
 
 ### Training and Evaluation
 The image detection model that has been created is compiled using the RMS Prop optimizer with learning_rate of 0.001 and categorical
-cross-entropy loss. For evaluation matrix, model uses accuracy with 20 epochs for training.
+cross-entropy loss. For the evaluation matrix, the model uses accuracy with 20 epochs for training.
 
-### Pretrained Model
-The base model, MobileNetV2, pretrained on the ImageNet dataset. This pre-training empowers the model with a strong understanding of common visual representations, forming a strong foundation for transferring learning to specific tasks such as image recognition or detection.
+### Pre-trained Model
+The base model, MobileNetV2, pre-trained on the ImageNet dataset. This pre-training empowers the model with a strong understanding of common visual representations, forming a strong foundation for transferring learning to specific tasks such as image recognition or detection.
 
 ## Development Reference
    - Template Landing Page: https://bootstrapmade.com/
    - Deploying Backend Services (Laravel): https://www.youtube.com/watch?v=00UqiF4hqNw&t=582s
    - Deploying Machine Learning Services: https://www.youtube.com/watch?v=CxzaOHTwqEI
-   - Template Admin : https://www.themekita.com/
+   - Template Admin: https://www.themekita.com/
      
 ###
