@@ -1,4 +1,4 @@
-<img width="1061" alt="image" src="https://github.com/NusaSpot/.github/assets/46333870/354917be-c664-4012-b3ad-4a84e8e5cd1b">![Logo](https://i.ibb.co/vmSmwjh/Frame-3222-1.png)
+<img width="1061" alt="image" src="https://github.com/NusaSpot/.github/assets/46333870/354917be-c664-4012-b3ad-4a84e8e5cd1b">![Logo]
 
 # Nutricare
 
