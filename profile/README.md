@@ -160,7 +160,7 @@ The app is developed using Android Studio and Kotlin, focusing on diverse layout
 
 #### Repositories for Nutricare Application
 
-1. [Nutricare Android App](https://github.com/NusaSpot/nusaspot-android)
+1. [Nutricare Android App](https://github.com/NusaSpot/nutricare-android)
 2. [Nutricare UI app](https://github.com/NusaSpot/UI_android/tree/master)
 
 # Nutricare Cloud Computing Platform
@@ -196,7 +196,7 @@ Utilizes transfer learning models and TensorFlow Library for classifying obesity
 # Getting Started
 
 ### Mobile Development
-To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nusaspot-android) into your local.
+To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nutricare-android) into your local.
 
 ### Cloud Computing
 Start to clone our project this can be cloned to your local system or deployed to cloud systems, We recommend you to use Google Cloud to deploy. We used Cloud Run, Cloud Build, Cloud Storage, and Cloud SQL for our architecture here are the steps:
