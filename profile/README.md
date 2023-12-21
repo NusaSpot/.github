@@ -286,7 +286,7 @@ To use the image and obesity detection you can clone the repository follow the t
 - [Image Detection Requirements](https://github.com/NusaSpot/detect-image/blob/main/requirements.txt)
 - [Obesity Detection Requirements](https://github.com/NusaSpot/detect-obesity/blob/main/requirements.txt)
 
-Use **pip install -r requirements.txt** to install the required packages.
+Use '**pip install -r requirements.txt**' to install the required packages.
 3. Download the trained model and preprocessed dataset at the following link.:
 - [Obesity Detection Model](https://github.com/NusaSpot/detect-obesity/blob/main/Klasifikasi_Obesitas.h5)
 - [Image Detection Model](https://github.com/NusaSpot/detect-image/blob/main/klasifikasi_gambar.h5)
