@@ -1,5 +1,3 @@
-![Logo](https://i.ibb.co/vmSmwjh/Frame-3222-1.png)
-
 # Nutricare
 
 Nutricare is a mobile application project aiming to address the escalating rates of overweight and obesity in Indonesia. The app classifies an individual's health status regarding obesity or overweight and provides personalized healthy food recommendations based on available ingredients. It also offers access to nutritionists for further guidance on body health conditions. This aligns with the goals of Indonesia's vision for 2045 by promoting well-being and addressing health challenges associated with obesity, leveraging technology to contribute to the solution
@@ -184,12 +182,16 @@ The app is developed using Android Studio and Kotlin, focusing on diverse layout
 
 #### Repositories for Nutricare Application
 
-1. [Nutricare Android App](https://github.com/NusaSpot/nusaspot-android)
+1. [Nutricare Android App](https://github.com/NusaSpot/nutricare-android)
 2. [Nutricare UI app](https://github.com/NusaSpot/UI_android/tree/master)
 
 # Nutricare Cloud Computing Platform
 
 Employs Google Cloud services for efficiency and security. Key components include Cloud SQL for MySQL database storage and Cloud Run for serverless deployment. Laravel-based API is used for cloud/web/frontend/backend development, enhancing scalability and cost-effectiveness.
+
+We also create Rest API for our app by using laravel as backend and flask python for our machine learning services we also using CI/CD using Cloud Build to make our deployment become easier.
+
+#### API Documentation : https://documenter.getpostman.com/view/11660174/2s9YJW5kV3
 
 ### Cloud Architecture
 ###
@@ -208,20 +210,54 @@ Employs Google Cloud services for efficiency and security. Key components includ
 #### Repositories for Nutricare Cloud Computing Platform
 
 1. [Nutricare API](https://github.com/NusaSpot/nusaspot-api)
+2. [Nutricare Web](https://github.com/NusaSpot/nutricare-web)
+3. [Nutricare Web Admin](https://github.com/NusaSpot/nutricare-web-admin)
 
 # Nutricare Machine Learning Platform
 
 Utilizes transfer learning models and TensorFlow Library for classifying obesity types and image object detection for food recommendation based on user ingredients.
 
+### **Image Detection**
+Image detection is based on transfer learning using MobilenetV2 models. Image detection is used in the mobile app to identify the image of cookoing ingredients and this dataset has 30 types of cooking ingredients that can be detected. The utilization of transfer learning through MobilenetV2 models enhances the efficiency of image detection in the mobile app, allowing for a more accurate and rapid identification of cooking ingredients. 
+
+### **Obesity Detection**
+This obesity detection uses TensorFlow in its development, by implementing a simple model architecture to identify obesity accurately. The model is trained using a dataset with six classes, where the system will use height and weight to calculate the user's BMI.
+
 #### Repositories for Nutricare Machine Learning Platform
 
 1. [Nutricare Python](https://github.com/NusaSpot/python-ml)
+2. [Nutricare Image Detection](https://github.com/NusaSpot/detect-image)
+3. [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
 
 # Getting Started
 
 ### Mobile Development
-To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nusaspot-android) into your local.
+To get started with the mobile development application you can install android studio on your device and clone the repository [Nutricare Android App](https://github.com/NusaSpot/nutricare-android) into your local.
 
 ### Cloud Computing
+Start to clone our project this can be cloned to your local system or deployed to cloud systems, We recommend you to use Google Cloud to deploy. We used Cloud Run, Cloud Build, Cloud Storage, and Cloud SQL for our architecture here are the steps:
+
+1. Create a Project on the Google Cloud Platform
+2. Create Cloud SQL Instances
+3. Import Database from (https://storage.googleapis.com/nutricare/nutricare-database.sql)
+4. Create Bucket on Cloud Storage
+5. Clone, build, and deploy this machine learning API to Cloud Run
+   - Image Detection: (https://github.com/NusaSpot/detect-image)
+   - Body Status Detection: (https://github.com/NusaSpot/detect-obesity)
+7. Clone, build, and deploy our web and API services to Cloud Run, but take a look at the .env.example at each repository for the reference environment that we used, also please assign a service account to each service that has (Storage Object Admin) Role
+   - API : (https://github.com/NusaSpot/nutricare-api)
+   - Web Nutritionist & Profile: (https://github.com/NusaSpot/nutricare-web)
+   - Web Administrator: (https://github.com/NusaSpot/nutricare-web-admin)
+9. After all is finished you can try each service also you can try to login in Web Administrator using these credentials :
+   - Username: admin-nutricare@gmail.com
+   - Password: nutricare@@
 
 ### Machine Learning
+
+## Development Reference
+   - Template Landing Page: https://bootstrapmade.com/
+   - Deploying Backend Services (Laravel): https://www.youtube.com/watch?v=00UqiF4hqNw&t=582s
+   - Deploying Machine Learning Services: https://www.youtube.com/watch?v=CxzaOHTwqEI
+   - Template Admin : https://www.themekita.com/
+     
+###
