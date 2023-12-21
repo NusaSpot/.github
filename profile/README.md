@@ -83,7 +83,7 @@ Nutricare is a mobile application project aiming to address the escalating rates
 
 ###
 
-## Website Nutrisionist Features
+## Website Nutritionist Features
 
 #### 1. Authentication
 
@@ -214,7 +214,7 @@ The app is developed using Android Studio and Kotlin, focusing on diverse layout
 
 Employs Google Cloud services for efficiency and security. Key components include Cloud SQL for MySQL database storage and Cloud Run for serverless deployment. Laravel-based API is used for cloud/web/frontend/backend development, enhancing scalability and cost-effectiveness.
 
-We also create Rest API for our app by using laravel as backend and flask python for our machine learning services we also using CI/CD using Cloud Build to make our deployment become easier.
+We also create Rest API for our app by using Laravel as the backend and Flask Python for our machine learning services we also use CI/CD using Cloud Build to make our deployment easier.
 
 #### API Documentation : https://documenter.getpostman.com/view/11660174/2s9YJW5kV3
 
