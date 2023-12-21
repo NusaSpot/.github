@@ -311,7 +311,7 @@ The image detection model that has been created is compiled using the RMS Prop o
 cross-entropy loss. For evaluation matrix, model uses accuracy with 20 epochs for training.
 
 ### Pretrained Model
-This pre-training empowers the model with a strong understanding of common visual representations, forming a strong foundation for transferring learning to specific tasks such as image recognition or detection.
+The base model, MobileNetV2, pretrained on the ImageNet dataset. This pre-training empowers the model with a strong understanding of common visual representations, forming a strong foundation for transferring learning to specific tasks such as image recognition or detection.
 
 ## Development Reference
    - Template Landing Page: https://bootstrapmade.com/
