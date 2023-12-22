@@ -271,7 +271,7 @@ To get started with the mobile development application you can install Android S
 Start to clone our project this can be cloned to your local system or deployed to cloud systems, We recommend you to use Google Cloud to deploy. We used Cloud Run, Cloud Build, Cloud Storage, and Cloud SQL for our architecture here are the steps:
 
 1. Create a Project on the Google Cloud Platform
-2. Create Cloud SQL Instances
+2. Create Cloud SQL Instances (MySql)
 3. Import Database from (https://storage.googleapis.com/nutricare/nutricare-database.sql)
 4. Create Bucket on Cloud Storage
 5. Clone, build, and deploy this machine learning API to Cloud Run
