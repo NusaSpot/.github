@@ -250,9 +250,8 @@ This obesity detection uses TensorFlow in its development, by implementing a sim
 
 #### Repositories for Nutricare Machine Learning Platform
 
-1. [Nutricare Python](https://github.com/NusaSpot/python-ml)
-2. [Nutricare Image Detection](https://github.com/NusaSpot/detect-image)
-3. [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
+1. [Nutricare Image Detection](https://github.com/NusaSpot/detect-image)
+2. [Nutricare Obesity detection](https://github.com/NusaSpot/detect-obesity)
 
 #### Model Accuracy
 
